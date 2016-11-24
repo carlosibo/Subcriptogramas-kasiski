@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 texto = raw_input("Introduzca su texto: ")
-x=0
+x=0 #Cambiar valor dependiendo del subcriptograma deseado
 cadena = ""
 dirFichero = raw_input("Introduzca la ubicacion de su fichero: ")
 longitudclave = raw_input("Introduzca la longitud de la clave: ")
